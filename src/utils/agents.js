@@ -1,0 +1,48 @@
+const agents = [
+  {
+    id: 'agent1',
+    realtor: 'Dakota Realtors',
+    name: 'Rachel Chase',
+    image: '/images/realtors/agent1.jpg',
+    title: 'Owner- Broker',
+    phone: '701-555-5555',
+    email: 'chaserachel@gmail.com',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris.',
+    expereince: '15 years',
+  },
+  {
+    id: 'agent2',
+    realtor: 'Dakota Realtors',
+    name: 'Randy Brooks',
+    image: '/images/realtors/agent3.jpg',
+    title: 'V.P, Broker-Realtor',
+    phone: '701-555-5555',
+    email: 'brooksrandy@gmail.com',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris.',
+    expereince: '4 years',
+  },
+  {
+    id: 'agent3',
+    realtor: 'Dakota Realtors',
+    name: 'Christine Smith',
+    image: '/images/realtors/agent2.jpg',
+    title: 'Realtor',
+    phone: '701-555-5555',
+    email: 'smithchristine@gmail.com',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris.',
+    expereince: '5 years',
+  },
+  {
+    id: 'agent4',
+    realtor: 'Dakota Realtors',
+    name: 'James Johnson',
+    image: '/images/realtors/agent4.jpg',
+    title: 'Realtor',
+    phone: '701-555-5555',
+    email: 'johnsonjames@gmail.com',
+    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris. Sed euismod, nunc vel tincidunt lacinia, nisl nisl aliquam mauris, quis aliquet nisl nunc vel mauris.',
+    expereince: '3 years',
+  },
+];
+
+export default agents;
